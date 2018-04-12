@@ -45,3 +45,9 @@ input[type=number] {
 .pixel {
     cursor: pointer;
 }
+
+.hint {
+    color: #4d4d4d;
+    font-size: 11px;
+    margin: 5px 0;
+}
